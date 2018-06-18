@@ -2,3 +2,4 @@ jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
 jupyter nbextension enable python-markdown/main
 jupyter nbextension enable equation-numbering/main
+jupyter trust TS-TD7.ipynb
